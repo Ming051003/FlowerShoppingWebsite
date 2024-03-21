@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/dao/OrderDetailDAO.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/client/UpdateOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/client/OrderAgainController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/client/UserViewOrderDetailController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/admin/AdminManagePlantController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/admin/AdminManageCategoryController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/admin/ChangeOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/web/order.jsp</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/sync/SearchController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/client/UserViewOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/client/AddToCartController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/sync/SearchOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/admin/AdminSearchOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/web/orderdetail.jsp</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/src/java/controller/admin/AdminManageOrderController.java</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/web/manageOrder.jsp</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/web/managePlant.jsp</file>
+            <file>file:/D:/Study/Java/web/FlowerShopWebsite/web/orderAgain.jsp</file>
+        </group>
+    </open-files>
+</project-private>
